@@ -5,6 +5,5 @@
 - Pentru afisare am folosit VISX
 
 <p align="center">
-  <img src="https://github.com/Matei87/goosfraba-test/blob/master/public/test.png" width="350" title="hover text">
-  <img src="https://github.com/Matei87/goosfraba-test/blob/master/public/test.png" width="350" alt="accessibility text">
+  <img src="https://github.com/Matei87/goosfraba-test/blob/master/public/test.png" width="550" title="hover text">
 </p>
