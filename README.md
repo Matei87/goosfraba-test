@@ -4,6 +4,4 @@
 - In componenta functionala App interoghez allPosts cu un count de 500
 - Pentru afisare am folosit VISX
 
-<p align="center">
-  <img src="https://github.com/Matei87/goosfraba-test/blob/master/public/test.png" width="550" title="hover text">
-</p>
+ <img src="https://github.com/Matei87/goosfraba-test/blob/master/public/test.png" width="850" title="hover text">
